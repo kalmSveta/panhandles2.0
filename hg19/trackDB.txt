@@ -1,8 +1,8 @@
 
-track all_panhandles
+track all_panhandles2.0
 type bigBed 12 +
 exonArrows on
 exonNumbers on
 bigDataUrl panhandles_preprocessed.bb 
-shortLabel all_panhandles
+shortLabel all_panhandles2.0
 longLabel all panhandles from human genome2.0 
