@@ -1,0 +1,5 @@
+hub panhandles2.0
+shortLabel panhandles2.0
+longLabel panhandles2.0
+genomesFile genomes.txt
+email svetlana.kalmykova@skoltech.ru
