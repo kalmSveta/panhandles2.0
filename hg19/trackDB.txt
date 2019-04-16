@@ -5,4 +5,4 @@ exonArrows on
 exonNumbers on
 bigDataUrl panhandles_preprocessed.bb 
 shortLabel all_panhandles2.0
-longLabel all panhandles from human genome2
+longLabel all panhandles from human genome2.0
