@@ -1,0 +1,8 @@
+
+track all_panhandles
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_preprocessed.bb
+shortLabel all_panhandles
+longLabel all panhandles from human genome 
