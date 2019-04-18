@@ -13,7 +13,7 @@ exonArrows on
 exonNumbers on
 itemRgb on
 bigDataUrl out_mutator_kidney_with_ph.bb 
-shortLabel panhandle_with_mutations_kidney2.0
+shortLabel mutations_kidney2.0
 longLabel panhandle with mutations in RECA2.0
 
 
@@ -23,7 +23,7 @@ exonArrows on
 exonNumbers on
 itemRgb on
 bigDataUrl out_mutator_liver_with_ph.bb 
-shortLabel panhandle_with_mutations_liver2.0
+shortLabel mutations_liver2.0
 longLabel panhandle with mutations in LIRI2.0
 
 
