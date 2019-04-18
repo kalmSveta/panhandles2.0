@@ -11,6 +11,7 @@ track panhandle_with_mutations_kidney2.0
 type bigBed 12 +
 exonArrows on
 exonNumbers on
+itemRGB on
 bigDataUrl out_mutator_kidney_with_ph.bb 
 shortLabel panhandle_with_mutations_kidney2.0
 longLabel panhandle with mutations in RECA2.0
