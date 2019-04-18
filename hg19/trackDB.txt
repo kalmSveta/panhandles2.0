@@ -6,3 +6,14 @@ exonNumbers on
 bigDataUrl panhandles_preprocessed.bb 
 shortLabel all_panhandles2.0
 longLabel all panhandles from human genome2.0
+
+track panhandle_with_mutations_kidney2.0
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl out_mutator_kidney_with_ph.bb 
+shortLabel panhandle_with_mutations_kidney2.0
+longLabel panhandle with mutations in RECA2.0
+
+
+
