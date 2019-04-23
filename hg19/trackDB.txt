@@ -27,4 +27,13 @@ shortLabel mutations_liver2.0
 longLabel panhandle with mutations in LIRI2.0
 
 
+track RECA-EU_SNVs
+type bigBed 4+
+exonArrows on
+exonNumbers on
+bigDataUrl RECA_simple_somatic_mutation.open_only_SNV_sorted_final.bb
+shortLabel RECA-EU_SNVs
+longLabel RECA-EU_SNVs
+ 	
+
 
